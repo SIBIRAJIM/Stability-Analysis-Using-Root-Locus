@@ -28,7 +28,7 @@ rlocus(sys)
 
 ## Output:
 
-<img width="689" height="625" alt="Screenshot 2025-11-11 105954" src="https://github.com/user-attachments/assets/26cb6cf6-e27f-4465-86e9-4fbc949d2284" />
+<img width="699" height="626" alt="image" src="https://github.com/user-attachments/assets/efb210b9-801d-4a1a-b603-66c56093cb8b" />
 
 ## Result:
-Thus the root locus for the given transfer function was drawn and verified using MATLAB. The conditions for stability is ------------
+Thus the root locus for the given transfer function was drawn and verified using MATLAB. The conditions for stability is 744.551 .
